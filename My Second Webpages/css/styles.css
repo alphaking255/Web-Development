@@ -12,11 +12,10 @@
     padding: 15px;
   }
 #homepage{
-    color: #e8491d;
     float: left;
     padding: 15px;
-    
-}
+    color: #f4f4f4;
+    }
 #about{
     float: left;
     padding: 15px;
@@ -67,4 +66,27 @@
     border: solid #e8491d;
     background-color: #e8491d;
     text-align: center;
+}
+.about_body{
+    display: flex;
+    float: left;
+    padding: 50px;
+}
+#about_me{
+   width: 80%;
+}
+#col-2{
+    width: 40%;
+    border: solid #35424a;
+    background-color: #35424a;
+    color: #f4f4f4;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#col-1{
+    width: 80%;
+    border: solid #35424a;
+    background-color: #35424a;
+    color: #f4f4f4;
+
 }

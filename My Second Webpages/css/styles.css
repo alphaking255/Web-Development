@@ -88,5 +88,34 @@
     border: solid #35424a;
     background-color: #35424a;
     color: #f4f4f4;
-
+}
+.section{
+    display: flex;
+    padding: 25px;
+    width: 80%;
+    float: center;
+}
+#design{
+    border: solid #f4f4f4;
+    background-color: #f4f4f4;
+}
+#maintenance{
+    border: solid #f4f4f4;
+    background-color: #f4f4f4;
+}
+#hosting{
+    border: solid #f4f4f4;
+    background-color: #f4f4f4;
+}
+.service_form{
+    width: 20%;
+    color: #f4f4f4;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid #35424a;
+    height: 250px;
+    background-color: #35424a;
+}
+.containers{
+    padding: 20px;
 }

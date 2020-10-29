@@ -1,0 +1,70 @@
+.navbar {
+    display: flex;
+    background-color: #35424a;
+    padding-left: 100px;
+    border-bottom: solid #e8491d;
+    /* padding-bottom: 0px; */
+  }
+#name{
+    color: #f4f4f4;
+    width: 58.33%;
+    float: left;
+    padding: 15px;
+  }
+#homepage{
+    color: #e8491d;
+    float: left;
+    padding: 15px;
+    
+}
+#about{
+    float: left;
+    padding: 15px;
+    color: #f4f4f4;
+}
+#services{
+    float: left;
+    padding: 15px;
+    color: #f4f4f4;
+}
+.middle{
+    float: center;
+    padding: 10px;
+    text-align: center;
+    padding-top: 10%;
+    color: #f4f4f4;
+    background-position: 20px;
+}
+.subscription{display: flex;
+    background-color: #35424a;
+    padding-left: 100px;
+}
+.form{
+    display: flex;
+    padding: 18px;
+    width: 25%;
+    padding-left: 500px;
+}
+#sub{
+    color: #f4f4f4;
+}
+#subscribe{
+    text-align: center;
+    width: 80px;
+    cursor: pointer;
+}
+.logo{
+    display: flex;
+    width: fit-content;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+}
+.footer{
+    color: #f4f4f4;
+    border: solid #e8491d;
+    background-color: #e8491d;
+    text-align: center;
+}
